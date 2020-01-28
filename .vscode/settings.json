@@ -1,4 +1,5 @@
 {
     "python.pythonPath": "C:\\Users\\mingming\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
-    "files.autoGuessEncoding": true
+    "files.autoGuessEncoding": true,
+    "git.ignoreLimitWarning": true
 }
