@@ -4,6 +4,9 @@
 Version: 0.1
 Author: Brandon Hoo
 Date:2020-01-13
+
+穷举法例子：
+对所有可能进行验证，得出所有正确的答案， （循环+验证条件）
 """
 
 for x in range(0, 20):
