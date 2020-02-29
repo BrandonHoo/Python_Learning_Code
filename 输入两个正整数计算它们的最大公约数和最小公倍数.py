@@ -5,7 +5,7 @@ Version: 0.1
 Author: Brandon
 Date: 2020-01-13
 """
-
+'''
 x = int(input('x = '))
 y = int(input('y = '))
 # 如果x大于y就交换x和y的值
@@ -17,4 +17,5 @@ for factor in range(x, 0, -1):
     if x % factor == 0 and y % factor == 0:
         print('%d和%d的最大公约数是%d' % (x, y, factor))
         print('%d和%d的最小公倍数是%d' % (x, y, x * y // factor))
-        break
+        break 
+    '''
